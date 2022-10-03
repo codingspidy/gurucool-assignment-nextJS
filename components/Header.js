@@ -59,8 +59,8 @@ const Header = () => {
           </ul>
         </nav>
         <div className="hidden lg:flex items-center space-x-2">
-          <Image src="/profile-img.png" width={40} height={40} />
-          <span>GmatriX</span>
+          <Image src="/profileCTA.png" width={40} height={40} />
+          <span className="text-sm">GmatriX</span>
         </div>
       </header>
     </div>
