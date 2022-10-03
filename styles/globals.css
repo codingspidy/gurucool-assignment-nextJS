@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-    overflow-x: hidden;
-}
-
 @layer components {
     .text-field {
       @apply border border-gray-300 rounded w-full;
